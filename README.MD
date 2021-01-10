@@ -1,21 +1,25 @@
-# React Native - Expo - Boilerplate
+# React Native - Expo Managed - Boilerplate
 
 Thanks for reading this, here are the feature this boilerplate contains👇
 
 
- + **Please change your firebase config** [**here**](https://github.com/chichke/RN_EXPO_BP/blob/master/firebase/config.js)
+ + **Please change your firebase config** [**config.js**](https://github.com/chichke/RN_EXPO_BP/blob/master/firebase/config.js)
 
-+ **Please change your app name** [**here**](https://github.com/chichke/RN_EXPO_BP/blob/master/app.json)
++ **Please change your app name** [**app.json**](https://github.com/chichke/RN_EXPO_BP/blob/master/app.json)
 
 
-## [Expo](https://docs.expo.io/)
-
-## [Firebase](https://docs.expo.io/guides/using-firebase/)
-
-## [React Navigation](https://reactnavigation.org/docs/getting-started) 
-
-## [Eslint Airbnb Style](https://github.com/airbnb/javascript#readme) 
-
-## [Husky](https://github.com/typicode/husky#readme)  
-
-## [Prettier](https://github.com/prettier/prettier#readme) 
+### [Expo](https://docs.expo.io/)
+> [Expo](http://expo.io/) is a framework and a platform for universal React applications
+### [Firebase](https://docs.expo.io/guides/using-firebase/)
+> [Firebase](https://firebase.google.com/) gives you functionality like analytics, databases, messaging and crash reporting so you can move quickly and focus on your users. Firebase is built on Google infrastructure and scales automatically, for even the largest apps.
+Serverless
+### [React Navigation](https://reactnavigation.org/docs/getting-started) 
+> Routing and navigation for your React Native apps
+[Read docs](https://reactnavigation.org/docs/getting-started)
+[Try the demo app](https://github.com/react-navigation/react-navigation/tree/main/example)
+### [Eslint Airbnb Style](https://github.com/airbnb/javascript#readme) 
+>_A mostly reasonable approach to JavaScript_
+### [Husky](https://github.com/typicode/husky#readme)  
+> Git hooks made easy
+### [Prettier](https://github.com/prettier/prettier#readme) 
+> Consistent code style
