@@ -6,7 +6,7 @@ import {
   showScoreBoardIcon,
   showSettingsIcon,
   showSignupIcon,
-} from '../components/TabBarIcon';
+} from '../components/shared/TabBarIcon';
 import Home from '../components/screens/Auth/Home';
 import ScoreBoard from '../components/screens/Auth/ScoreBoard';
 import Settings from '../components/screens/Auth/Settings';
