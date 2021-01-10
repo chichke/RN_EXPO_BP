@@ -40,44 +40,24 @@ export default function App() {
     return <SplashScreen />;
   }
 
-  return (
-    <NavigationContainer>
-      {user ? <AuthStack /> : <NonAuthStack />}
-    </NavigationContainer>
-  );
+  return <NavigationContainer>{user ? <AuthStack /> : <NonAuthStack />}</NavigationContainer>;
 }
 
 export const AuthStack = () => (
   <Tab.Navigator initialRouteName="Home" lazy={false}>
-    <Tab.Screen
-      name="Home"
-      component={Home}
-      options={{ tabBarIcon: showHomeIcon }}
-    />
+    <Tab.Screen name="Home" component={Home} options={{ tabBarIcon: showHomeIcon }} />
     <Tab.Screen
       name="ScoreBoard"
       component={ScoreBoard}
       options={{ tabBarIcon: showScoreBoardIcon }}
     />
-    <Tab.Screen
-      name="Settings"
-      component={Settings}
-      options={{ tabBarIcon: showSettingsIcon }}
-    />
+    <Tab.Screen name="Settings" component={Settings} options={{ tabBarIcon: showSettingsIcon }} />
   </Tab.Navigator>
 );
 
 export const NonAuthStack = () => (
   <Tab.Navigator initialRouteName="Login" lazy={false}>
-    <Tab.Screen
-      name="Login"
-      component={Signin}
-      options={{ tabBarIcon: showLoginIcon }}
-    />
-    <Tab.Screen
-      name="Signup"
-      component={Signup}
-      options={{ tabBarIcon: showSignupIcon }}
-    />
+    <Tab.Screen name="Login" component={Signin} options={{ tabBarIcon: showLoginIcon }} />
+    <Tab.Screen name="Signup" component={Signup} options={{ tabBarIcon: showSignupIcon }} />
   </Tab.Navigator>
 );
