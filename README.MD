@@ -20,6 +20,12 @@ Serverless
 ### [Eslint Airbnb Style](https://github.com/airbnb/javascript#readme) 
 >_A mostly reasonable approach to JavaScript_
 ### [Husky](https://github.com/typicode/husky#readme)  
-> Git hooks made easy
+> _Git hooks made easy_
 ### [Prettier](https://github.com/prettier/prettier#readme) 
 > Consistent code style
+ ### [i18n-js](https://github.com/fnando/i18n-js#readme) 
+> Internationalization dynamic
+ ### [Redux](https://github.com/reduxjs/react-redux#readme) 
+> State managment
+ ### [immer](https://github.com/immerjs/immer#readme) 
+> _Create the next immutable state tree by simply modifying the current tree_
