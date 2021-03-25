@@ -1,3 +1,7 @@
+<a href="https://fast-modular-project.com" target="_blank">
+<img src="https://fast-modular-project.com/assets/share/readme-starter.png" alt="FMP Read me" />
+</a>
+
 # React Native - Expo Managed - Boilerplate
 
 Thanks for reading this, here are the feature this boilerplate contains👇
