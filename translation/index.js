@@ -1,8 +1,8 @@
-import i18n from 'i18n-js';
-import { I18nManager } from 'react-native';
 import * as Localization from 'expo-localization';
+import i18n from 'i18n-js';
 import memoize from 'lodash.memoize';
-import { fr, en } from './locales';
+import { I18nManager } from 'react-native';
+import { en, fr } from './locales';
 
 const t = memoize((key, config) => i18n.t(key, config));
 

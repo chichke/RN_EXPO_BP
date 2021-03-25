@@ -1,3 +1,5 @@
+# Description
+
 This starter allows you to develop serverless mobile applications. </br>
 
 ## Features included in the starter
@@ -16,3 +18,4 @@ This starter allows you to develop serverless mobile applications. </br>
 Do not hesitate to:
 - improve the starter by PRs
 - propose your own modules on top of it!
+- Add [React Query](https://react-query.tanstack.com/) a very powerful library to manage the cache and api calls

@@ -1,3 +1,9 @@
 export default {
-  lang: 'fr',
+  screen: {
+    home: 'Home',
+    scoreboard: 'Classement',
+    settings: 'Réglages',
+    signin: 'Connexion',
+    signup: 'Inscription',
+  },
 };

@@ -1,10 +1,11 @@
 import React from 'react';
 import { Text, View } from 'react-native';
+import t from '../../../translation';
 
 export default function ScoreBoard() {
   return (
     <View>
-      <Text>ScoreBoard</Text>
+      <Text>{t('screen.scoreboard')}</Text>
     </View>
   );
 }

@@ -1,3 +1,9 @@
 export default {
-  lang: 'en',
+  screen: {
+    home: 'Home',
+    scoreboard: 'Scoreboard',
+    settings: 'Settings',
+    signin: 'Signin',
+    signup: 'Signup',
+  },
 };

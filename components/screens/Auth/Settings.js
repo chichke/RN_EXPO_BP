@@ -1,10 +1,11 @@
 import React from 'react';
 import { Text, View } from 'react-native';
+import t from '../../../translation';
 
 export default function Settings() {
   return (
     <View>
-      <Text>Settings</Text>
+      <Text>{t('screen.settings')}</Text>
     </View>
   );
 }
