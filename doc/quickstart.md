@@ -1,5 +1,3 @@
-# Quickstart
-
 **Step 1 : get the code** <br/>
 git clone or use the **"Use this template button"**
 

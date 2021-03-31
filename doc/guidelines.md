@@ -1,9 +1,6 @@
-# Guidelines
-
+_Please follow these simple architecture pattern when doing your app_
 
 ## Architecture
-
-_Please follow these simple architecture pattern when doing your app_
 
 React Native component fall into two mains categories:
 
@@ -11,7 +8,7 @@ React Native component fall into two mains categories:
 +  Screens
 
 Screens are either inside the **Auth** or the **NonAuth** navigation stack
-## Translations
+### Translations
 
 Please checkout the translations folder to make your app available in many countries!
 

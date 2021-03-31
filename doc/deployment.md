@@ -1,3 +1,1 @@
-# Deployment
-
 Checkout [this guide](https://docs.expo.io/distribution/uploading-apps/) to learn how to deploy your new app!

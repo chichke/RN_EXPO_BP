@@ -1,5 +1,3 @@
-# Description
-
 This starter allows you to develop serverless mobile applications. </br>
 
 ## Features included in the starter
